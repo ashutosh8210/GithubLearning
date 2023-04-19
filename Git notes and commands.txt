@@ -27,4 +27,10 @@ git stash pop
 to clean 
 git stash clear
 
+***************to connect to github****************
+git remote add origin <url of repository>
+
+to push to this repo
+git push origin <branch name>
+
 
