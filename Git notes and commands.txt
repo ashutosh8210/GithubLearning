@@ -1,0 +1,30 @@
+First:
+Initialize git- use command git init
+
+Git status shows which changes are not maintained
+to check status- git status
+
+After that we have to add files to staging area from where it can be 
+further committed to git
+to do that, use command, git add <filename> or git add . to add all files
+
+After this if you use git status it will show file names green and it means it is staged and ready to commit
+
+To commit, use command git commit -m <commit message>
+
+To unstage from staging area: git restore --staged <filename>
+
+Use git log, to see history
+To restore to a previous version or to a point,
+git reset <hashcode of git commit>
+
+If we don't want to commit and neither want to lose files after adding to staging area we use stash, first add to staging area then use:
+git stash
+
+to bring those files forward
+git stash pop
+
+to clean 
+git stash clear
+
+
