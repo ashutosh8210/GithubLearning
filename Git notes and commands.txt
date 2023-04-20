@@ -33,4 +33,10 @@ git remote add origin <url of repository>
 to push to this repo
 git push origin <branch name>
 
+*********Branch*********
+to create a branch-----  git branch <branch name>
+to move from master to particular branch, git checkout <branch name>
+
+
+
 
