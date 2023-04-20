@@ -1,0 +1,6 @@
+Ranchi, Jharkhand
+Bengaluru,Karnataka
+Mumbai, Maharashtra
+pune,Maharashtra
+Patna, Bihar
+New Delhi
